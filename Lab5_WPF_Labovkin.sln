@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab5_WPF_Labovkin", "Lab5_WPF_Labovkin\Lab5_WPF_Labovkin.csproj", "{78DA3513-1399-499D-85C0-CB52E9322A53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78DA3513-1399-499D-85C0-CB52E9322A53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78DA3513-1399-499D-85C0-CB52E9322A53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78DA3513-1399-499D-85C0-CB52E9322A53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78DA3513-1399-499D-85C0-CB52E9322A53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4DDB84C4-A073-46D0-838E-F769C6B5F875}
+	EndGlobalSection
+EndGlobal
